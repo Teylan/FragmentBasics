@@ -10,8 +10,6 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
     FragmentManager fm;
-    private Button button;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
